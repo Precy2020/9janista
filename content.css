@@ -1,0 +1,47 @@
+nav a:hover {
+    background-color: rgb(16, 51, 16);
+}
+
+nav {
+    background-color: green;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+header {
+    background-color:green;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+header .logoRow{
+    color: aliceblue;
+}
+
+.heroRowContainer{
+    color: green;
+}
+
+.hero{
+    display: flex;
+    /* margin: 0%; */
+    justify-content: center;
+}
+
+img{
+    width: 500px;
+    height: 1000px;
+    margin: 0%;
+}
